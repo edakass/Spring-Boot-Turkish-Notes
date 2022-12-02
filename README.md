@@ -73,9 +73,9 @@
 ## @RequestMapping("/.....")
 
 - Template de  "..." bu kısım bizim 
-- <form action=" ....." karşılık gelen kısımdır.
+- form action=" ....." karşılık gelen kısımdır.
 
-- <form action=" ....."  method="GET"> ---  </form>
+- form action=" ....."  method="GET"> ---  </form>
 
 ## @RequestParam()
 
