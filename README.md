@@ -17,6 +17,8 @@
 
  - Java objesidir.
  
+## NOT : Önceden XML ile her şeyi yani beanleri teker teker yazılıyormuş.
+
 ## Dependency Injection
  
 - Mesela ben araba almak istiyorum benim gerçektende bir araba yapmama gerek yok. Dependency Injection ise bu işlemi yapıyor.
