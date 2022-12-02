@@ -75,7 +75,7 @@
 - Template de  "..." bu kısım bizim 
 - form action=" ....." karşılık gelen kısımdır.
 - form action=" ....."  method="GET"> ---  </form>
-- Ya da class bilgisinden öncede kullanabiliyoruz
+- Ya da class bilgisinden öncede kullanabiliyoruz. Bunada "parent mapping" deniliyor.
 
 ## @RequestParam()
 
