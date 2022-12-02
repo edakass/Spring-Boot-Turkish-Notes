@@ -21,11 +21,13 @@ My Turkish Spring Notes
  
  # Dependency Injection
  
--Mesela ben araba almak istiyorum benim gerçektende bir araba yapmama gerek yok. Dependency Injection ise bu işlemi yapıyor.
+- Mesela ben araba almak istiyorum benim gerçektende bir araba yapmama gerek yok. Dependency Injection ise bu işlemi yapıyor.
 
 -  dependency = helper objects
 
--Injection Types -En yaygın olan ikisi şunlardır: Constructor Injection ve Setter Injection
+- Injection Types : En yaygın olan ikisi şunlardır: Constructor Injection ve Setter Injection.
+
+- Dependency Injection'ı ise  @Autowiring ile sağlıyoruz.
 
   
   
