@@ -5,13 +5,13 @@
 
 - Spring popüler bir Java frameworküdür.
 
-## Spring Core nedir?
-
 ## Tomcat Nedir?
 
-## Ioc
+- Web sunucusudur.
 
-# Object Faktory
+## IoC(Inversion of Control)
+
+- Bir yazılım tasarım prensibidir
 
 ## Spring Bean nedir?
 
