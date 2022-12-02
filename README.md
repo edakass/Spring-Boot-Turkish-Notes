@@ -56,6 +56,20 @@
 
 ![image](https://user-images.githubusercontent.com/61595808/205362688-f592ad58-6933-4101-91b3-6fcceaac9957.png)
 
+#### Controller
 
+- Kodlar geliştiriciler tarafındna oluşturulur
+- Uygun view templateları gönderir
+
+#### Model
+
+- Model: data'yı içerir
+
+#### View
+
+- Spring Mvc flexibledır,bir çok template i içerir. En yaygın olanları JSP(Java Server Pages) Vve JSTL(JSP Standart Tag)'dır.
+- Diğer destekledikleri ise Thymeleaf, Groovy etc
+
+## @RequestMapping()
   
   
