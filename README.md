@@ -1,5 +1,4 @@
 # Spring-Boot-Turkish-Notes
-My Turkish Spring Notes 
 
 
 ## Spring Nedir?
