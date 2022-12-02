@@ -59,5 +59,11 @@
  
 - Dosya içerisinden birden çok bean tanımı olabileceğini belirtir.
 
+## Spring MVC
+
+- Spring MVC Java da web projeleri için kullanılanılır.
+- Model View Controller, Design Pattern'a dayalıdır
+
+
   
   
