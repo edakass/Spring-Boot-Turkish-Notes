@@ -70,6 +70,15 @@
 - Spring Mvc flexibledır,bir çok template i içerir. En yaygın olanları JSP(Java Server Pages) Vve JSTL(JSP Standart Tag)'dır.
 - Diğer destekledikleri ise Thymeleaf, Groovy etc
 
-## @RequestMapping()
+## @RequestMapping("/.....")
+
+- Template de  "..." bu kısım bizim 
+
+<form action=" ....." karşılık gelen kısımdır.
+     <form action=" ....."  method="GET"> ---  </form>
+
+## @RequestParam()
+
+- Attribute ismini yazarız
   
   
