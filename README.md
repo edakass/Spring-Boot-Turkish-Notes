@@ -43,6 +43,21 @@
 
 - Field Injections
 
+## @Component nedir?
+
+- Bir sınıfı “Bean” olarak işaretler. (spring tarafından yönetilen bean)
+
+- Örnek olarak da @ComponentScan("package ismini buraya yazarız")
+
+## @Configuration nedir?
+
+- @Bean tanımlaması içeren fonksiyonlar içerir.
+
+- Tanımlandığı fonksiyon her neyi return ediyorsa, onun context içine ekleneceğini belirtir.
+ 
+- @Bean, genelde 3rd parti sınıflar context içine eklenmek istediğinde kullanılır.
+ 
+- Dosya içerisinden birden çok bean tanımı olabileceğini belirtir.
 
   
   
