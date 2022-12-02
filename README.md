@@ -5,7 +5,6 @@ My Turkish Spring Notes
 ## Spring Nedir?
 
 - Spring popüler bir Java frameworküdür.
-- 
 
 ## Spring Core nedir?
 
