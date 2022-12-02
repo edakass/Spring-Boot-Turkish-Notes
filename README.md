@@ -2,24 +2,24 @@
 My Turkish Spring Notes 
 
 
-# Spring Nedir?
+## Spring Nedir?
 
 - Spring popüler bir Java frameworküdür.
 - 
 
-#Spring Core nedir?
+## Spring Core nedir?
 
-# Tomcat Nedir?
+## Tomcat Nedir?
 
-# Ioc
+## Ioc
 
 # Object Faktory
 
-# Spring Bean nedir?
+## Spring Bean nedir?
 
  - Java objesidir.
  
- # Dependency Injection
+## Dependency Injection
  
 - Mesela ben araba almak istiyorum benim gerçektende bir araba yapmama gerek yok. Dependency Injection ise bu işlemi yapıyor.
 
