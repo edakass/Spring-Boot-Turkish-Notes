@@ -27,5 +27,20 @@
 
 - Dependency Injection'ı ise  @Autowiring ile sağlıyoruz.
 
+## Java Annotations
+
+- @ kullanarak gerçekleştirilir.
+
+- Mesela @Autowiring ile dependency injection yaparız , ya @Id  diyerek id olduğunu belirtiriz.
+
+## Autowiring Injection Types
+
+- Constructor Injection
+
+- Setter Injection
+
+- Field Injections
+
+
   
   
