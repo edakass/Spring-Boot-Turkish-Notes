@@ -54,6 +54,8 @@
 - Spring MVC Java da web projeleri için kullanılanılır.
 - Model View Controller, Design Pattern'a dayalıdır
 
+![image](https://user-images.githubusercontent.com/61595808/205362688-f592ad58-6933-4101-91b3-6fcceaac9957.png)
+
 
   
   
