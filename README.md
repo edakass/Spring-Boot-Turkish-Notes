@@ -83,3 +83,12 @@
   
 ## Data Binding
   
+![image](https://user-images.githubusercontent.com/61595808/205450562-045fae5f-c6db-4c3a-aa36-35b1a8059bec.png)
+
+  
+
+
+
+## Layers
+
+![katmannnnn](https://user-images.githubusercontent.com/61595808/204094416-c8ec00bd-bd9f-437d-9f67-2a312168dc76.png)
