@@ -97,8 +97,10 @@
 
 - Hibernate, Java platformunda yazılmış bir ORM aracıdır. ORM, nesne odaklı dillerdeki nesnelerin, ilişkisel veri tabanlarındaki kayıtlara nasıl karşılık geldiğini yürüten bir teknolojidir.
 -  Java Code <---> Hibernate <----> Database
-
-
+- SQL, JDBC ,ORM(Object To Relational )
+- Hibernate uses JDBC for all database communications.
+   Java App <----> Hibernate    JDBC  <----> Database
+   
 
 
 
