@@ -112,7 +112,16 @@
 
 - GenerationType.AUTO/IDENTIFY/SEQUENCE/TABLE  
 
+## Hibernate Query Language(HQL)
 
+## One-to-One
+## One-to-Many , Many-to-One
+## Many-to-Many
+
+
+## Entity Lifecycle
+
+![image](https://user-images.githubusercontent.com/61595808/205453073-273f873d-4a24-4bb2-b56f-6cead2c711ae.png)
 
 
 
