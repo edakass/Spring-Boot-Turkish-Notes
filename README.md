@@ -125,6 +125,9 @@
 
 
 
+## @OnetoOne - Cascade Types
+
+![image](https://user-images.githubusercontent.com/61595808/205453142-de21245a-dee6-4315-9582-eb03efbb6c05.png)
 
 
 
