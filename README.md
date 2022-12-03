@@ -99,9 +99,18 @@
 -  Java Code <---> Hibernate <----> Database
 - SQL, JDBC ,ORM(Object To Relational )
 - Hibernate uses JDBC for all database communications.
+
    Java App <----> Hibernate    JDBC  <----> Database
    
+## Why we are using JPA Annotations instead of Hibernate?
 
+- Jpa is a standard specification. Hibernate  is an implementation of the JPA specification.
+- Hibernate implementations all of JPA annotations.
+- The Hibernate team recommends the use of JPA Annotations as a best practice.
+
+## ID Generation  Strategies
+
+- GenerationType.AUTO/IDENTIFY/SEQUENCE/TABLE  
 
 
 
