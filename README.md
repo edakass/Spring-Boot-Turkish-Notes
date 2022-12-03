@@ -85,7 +85,54 @@
   
 ![image](https://user-images.githubusercontent.com/61595808/205450562-045fae5f-c6db-4c3a-aa36-35b1a8059bec.png)
 
-  
+## Form Validation 
+
+- Validation Annotations : @NotNull, @Min, @Max, @Size etc
+
+## Binding Result
+
+- Verilerin gönderimi sırasında oluşan hata ve bilgilere erişim BindingResult ve Errors arayüzünde yer alan metotlar ile yapılır.
+
+## Hibernate Nedir?
+
+- Hibernate, Java platformunda yazılmış bir ORM aracıdır. ORM, nesne odaklı dillerdeki nesnelerin, ilişkisel veri tabanlarındaki kayıtlara nasıl karşılık geldiğini yürüten bir teknolojidir.
+-  Java Code <---> Hibernate <----> Database
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
