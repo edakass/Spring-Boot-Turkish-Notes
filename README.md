@@ -108,6 +108,13 @@
 - Hibernate implementations all of JPA annotations.
 - The Hibernate team recommends the use of JPA Annotations as a best practice.
 
+## Spring Data JPA ile örnek kodlama
+
+- Spring Data Jpa ile CRUD operasyonları için herhangi bir implementasyon yazmanıza gerek yoktur.
+-  repo.findAll(); Bu kod bloğu ile tablodaki tüm kayıtlar listelenecek.
+-  Hibernate ise nesneleri ilişkisel veritabanlarında kalıcı hale getirmenize olanak tanıyan bir nesne-ilişkisel eşleme aracıdır.
+-  Jpa sadece bir standart ,hibernate onu implemente ediyor.
+
 ## ID Generation  Strategies
 
 - GenerationType.AUTO/IDENTIFY/SEQUENCE/TABLE  
