@@ -168,7 +168,7 @@
 
 ## Mapped by
 
-**@Entity
+```@Entity
 
 @Table(name="instructor_detail")
 
@@ -180,15 +180,15 @@ public class InstructorDetail{
  
  private Instructor instructor;
  
- } **
+ }```
  
-**public class  Instructor{
+```public class  Instructor{
 ...
  @OneToOne(cascade=CascadeType.ALL)
  @JoinColumn(name="instructor_detail_id")
  private InstructorDetail instructorDetail;
  
- }**
+ }```
  
  - mappedBy tells Hibernate
     - Look at the instructorDetail property in the Instructor class
