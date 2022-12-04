@@ -31,6 +31,9 @@
 -  Ioc ile Uygulama içerisindeki obje instance’larının yönetimi sağlanarak, bağımlılıklarını en aza indirgemek amaçlanmaktadır.
 - Yazdığımız kod bloğu çalışacağı zaman, framework bizim kodumuzu çağırır ve çalıştırır daha sonra kontrol yeniden framework’e geçmesi olayının tümüne Inversion Of Control adı verilmektedir.
 
+![image](https://user-images.githubusercontent.com/61595808/205481037-c0f92a98-743f-4ac7-822e-5f3a6784b987.png)
+
+
 ## Spring Bean nedir?
 
  - Java objesidir.
