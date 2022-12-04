@@ -208,6 +208,9 @@ public class  Instructor{
 - Eager will retrieve everything
 - Lazy will retrieve on request
 
+- Eager yerine Lazy daha çok tercih ediliyor. Neye ihtiyacımız var ise onu kullanmamız daha mantıklı
+
+![image](https://user-images.githubusercontent.com/61595808/205486450-179c4f09-35c8-4739-8b90-b59e815a553c.png)
 
 
 
