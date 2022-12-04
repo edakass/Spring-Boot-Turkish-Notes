@@ -169,12 +169,18 @@
 ## Mapped by
 
 **@Entity
+
 @Table(name="instructor_detail")
+
 public class InstructorDetail{
+
  ...
+ 
  @OneToOne(mappedBy="instructorDetail")
+ 
  private Instructor instructor;
- }**
+ 
+ } **
  
 **public class  Instructor{
 ...
