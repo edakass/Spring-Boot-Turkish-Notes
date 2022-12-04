@@ -174,19 +174,15 @@
 @Table(name="instructor_detail")
 public class InstructorDetail{
  ...
- 
  @OneToOne(mappedBy="instructorDetail")
- 
  private Instructor instructor;
- 
  }
- 
+ ***********************************************
 public class  Instructor{
-...
+  ...
  @OneToOne(cascade=CascadeType.ALL)
  @JoinColumn(name="instructor_detail_id")
  private InstructorDetail instructorDetail;
- 
  } ```
  ````
  
