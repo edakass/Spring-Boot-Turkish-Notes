@@ -222,7 +222,9 @@ public class  Instructor{
 - ![image](https://user-images.githubusercontent.com/61595808/205486595-33d32060-5a54-45b7-a360-13f46be689b5.png)
 
 
+# HTTP Methods
 
+![image](https://user-images.githubusercontent.com/61595808/205486691-2ccc9d41-0cd4-42ba-8f8f-0b21c2c4b06e.png)
 
 
 
