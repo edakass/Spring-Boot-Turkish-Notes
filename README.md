@@ -205,6 +205,8 @@ public class  Instructor{
 - Eğer @OneToOne ve @ManyToOne ilişkileri kullanıyorsak FetchType olarak Eager kullanmamız daha doğru olur. Yani bir tane Entity nesnesi üzerinden ilişki kurulduğundan ön yükleme yapmak performans açısından sorun oluşturmaz.
 - Eğer ki @OneToMany ve @ManyToMany ilişki kullanıyorsak FetchType olarak Lazy kullanmamız daha doğru olur. Yani birden fazla ilişkili nesne olduğundan ön yükleme yapmamız performans açısından kayba neden olur. Bunun için ihtiyaç duyulduğunda yüklemek daha doğru olur.
 
+- Eager will retrieve everything
+- Lazy will retrieve on request
 
 
 
