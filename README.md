@@ -222,11 +222,38 @@ public class  Instructor{
 - ![image](https://user-images.githubusercontent.com/61595808/205486595-33d32060-5a54-45b7-a360-13f46be689b5.png)
 
 
-# HTTP Methods
+## HTTP Methods
 
 ![image](https://user-images.githubusercontent.com/61595808/205486691-2ccc9d41-0cd4-42ba-8f8f-0b21c2c4b06e.png)
 
+## GET POST
 
+### GET
+
+- Good for debugging
+- Bookmark or email URL
+- Limitations on data length
+
+### POST
+
+- Can't bookmark(işaretleme) or email URL
+- No limitations on data length
+- Can also send binary data
+
+#### From load : Call getters
+#### From submit : Call setters
+#### Save(...) : INSERT new record
+#### update(...) : UPDATE existing record
+
+## Application Architecture
+
+Account Controller <---> Account Service <----> Account DAO <----> Database
+
+## Aspect Oriented Programming (AOP)
+
+AspectJ, @Before bu işlemlerde pointcutlar ile * , .. gibilerde package ile işlemlerimizi gerçekleştiriyorunu,yani ulaşıyoruz.
+@After Advice, @Around
+- ![image](https://user-images.githubusercontent.com/61595808/205487029-5c1c5ae0-f681-4343-b3a7-c8a8ddb3ccc7.png)
 
 
 
