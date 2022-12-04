@@ -27,6 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/61595808/205480333-e1a50a03-e958-40f5-876a-85c4ba29accd.png)
 
+All in all, Spring Boot is a project initializer based on Spring. It prevents you from writing long code with features such as auto-configuration and lets you avoid excessive configuration. The Spring Framework is really a solid option for developers, with the many enhancements listed above. However, when used with Spring Boot, it is highly advantageous. 
+
+The above example well illustrates the plot that I explained in the above sense. Spring framework is something that we need to manually change almost all configurations, while Spring Boot already provides us with zero or limited configuration standalone applications. The following diagram is a fairly clear example that illustrates these two frameworks.
+
  Bu resim için linkteki videoya bak    https://www.fusion-reactor.com/blog/the-difference-between-spring-framework-vs-spring-boot/
  
  
