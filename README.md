@@ -256,8 +256,19 @@ AspectJ, @Before bu işlemlerde pointcutlar ile * , .. gibilerde package ile iş
 - ![image](https://user-images.githubusercontent.com/61595808/205487029-5c1c5ae0-f681-4343-b3a7-c8a8ddb3ccc7.png)
 
 
+## Maven nedir?
+
+- Maven is a Project management tool
+- Most populer use of Maven is for build management and dependencies 
+- When building your Java project,you may need additional JAR files
+        - For example : Spring, Hibernate,Common Logging, JSON etc
+- Manually add the JAR files to your build path/classpath
 
 
+## JAR nedir?
+
+- JAR dosyası, genellikle birçok Java sınıfı dosyasını ve ilişkili meta verileri ve kaynakları dağıtım için tek bir dosyada toplamak için kullanılan bir paket dosya biçimidir. JAR dosyaları, Java'ya özgü bir bildirim dosyası içeren arşiv dosyalarıdır
+- JAR stands for Java ARchive. It's a file format based on the popular ZIP file format and is used for aggregating many files into one.
 
 
 
