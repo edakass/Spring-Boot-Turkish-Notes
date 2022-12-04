@@ -1,14 +1,29 @@
 # Spring-Boot-Turkish-Notes
 
+![image](https://user-images.githubusercontent.com/61595808/205493836-7b0e68c8-42e4-439c-85bb-2d020ff9995d.png)
+
+
+## Kütüphane ve Framework
+
+![image](https://user-images.githubusercontent.com/61595808/205493583-e49ba5b2-6f3a-4f16-b242-089a34fe26f9.png)
+
+![image](https://user-images.githubusercontent.com/61595808/205493593-9a3b9e86-700c-41d4-8e43-60cbf2515e4e.png)
+
 
 ## Spring Nedir?
 
 - Spring popüler bir Java frameworküdür.
 
+![image](https://user-images.githubusercontent.com/61595808/205493642-63911007-2b4b-48ca-9992-47b88e099ceb.png)
+
+
 ## Spring Kütüphanesi
 - Spring; bir web uygulaması geliştirmek için en yaygın olarak kullanılan Java EE (Java Enterprise Edition) kütüphanelerinden biridir. Java platformu için ayrıntılı bir programlama ve yapılandırma modeli sunar. Java EE kapsamında uygulama geliştirmeyi basitleştirmeyi amaçlar ve biz geliştiricilerin daha üretken olmasına yardımcı olur.
 - Spring kütüphanesinin en önemli özelliği Dependency Injection dır. 
 - Spring kütüphanesi bize esneklik uygulamaya odaklanırken, Spring Boot kod uzunluğunu kısaltmayı ve bir web uygulaması geliştirmenin en kolay yolunu bize sunmayı amaçlamaktadır.
+
+
+
 
 ![image](https://user-images.githubusercontent.com/61595808/205480333-e1a50a03-e958-40f5-876a-85c4ba29accd.png)
 
@@ -19,6 +34,18 @@
 
 
 ![image](https://user-images.githubusercontent.com/61595808/205480865-ab9ae2ee-f9d7-4a48-905a-2387c8bf9609.png)
+
+## Spring Boot
+
+Spring Boot is an open source Java-based framework used to create a micro Service.
+
+![image](https://user-images.githubusercontent.com/61595808/205493804-77967ef9-4210-49d8-914c-dd211562bd55.png)
+
+![image](https://user-images.githubusercontent.com/61595808/205493809-d1a35e16-cfef-46c5-83ec-539d18bab292.png)
+
+
+![image](https://user-images.githubusercontent.com/61595808/205493821-fe3cf5ea-69ee-45d3-8365-2ef6492679ef.png)
+
 
 
 ## Tomcat Nedir?
