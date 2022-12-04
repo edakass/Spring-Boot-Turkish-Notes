@@ -214,6 +214,12 @@ public class  Instructor{
 
 
 
+## DAO(Data Access Object)
+
+- bir design patterndır.
+- It's a design pattern in which a data access object (DAO) is an object that provides an abstract interface to some type of database or other persistence mechanisms.
+- ![image](https://user-images.githubusercontent.com/61595808/205486588-1c16c2f9-e55b-4c85-8135-492747b52271.png)
+- ![image](https://user-images.githubusercontent.com/61595808/205486595-33d32060-5a54-45b7-a360-13f46be689b5.png)
 
 
 
