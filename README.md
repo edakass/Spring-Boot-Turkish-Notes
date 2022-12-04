@@ -5,6 +5,8 @@
 
 ## Kütüphane ve Framework
 
+Frameworkler ve kütüphaneler, bazı genel görevleri daha az ayrıntılı bir şekilde gerçekleştirmenize yardımcı olan başkası tarafından yazılmış kodlardır. Framework programın kontrolünü terse çevirir. Kütüphane bununla ilgilenmez. Programcılar kütüphaneleri ihtiyaç duyduklarında çağırırlar.
+
 ![image](https://user-images.githubusercontent.com/61595808/205493583-e49ba5b2-6f3a-4f16-b242-089a34fe26f9.png)
 
 ![image](https://user-images.githubusercontent.com/61595808/205493593-9a3b9e86-700c-41d4-8e43-60cbf2515e4e.png)
