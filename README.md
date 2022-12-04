@@ -188,6 +188,7 @@ public class  Instructor{
  private InstructorDetail instructorDetail;
  
  } ```
+ ````
  
  - mappedBy tells Hibernate
     - Look at the instructorDetail property in the Instructor class
