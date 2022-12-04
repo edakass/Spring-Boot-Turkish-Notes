@@ -9,7 +9,11 @@
 - Her bir framework bir kütüphanedir ancak her bir kütüphane framework değildir.
 - Frameworklerde bir yazılım mimarisi bulunmaktadır ve içerisinden bir fonksiyonu ya da bir metodu kullanırken uymanız gereken standartlar vardır.
 Frameworklerde kodu çağıran kendisi olur
-
+- Framework uygulama çatısıdır.
+Uygulama o çatıda geliştirilir. Örn ASP.NET MVC
+- Kütüphane bir çatının altında yardımcı yapılardır.
+Kütüphane basitleştirilmiş kod fonksiyonlar topluluğudur.
+Framework bir uygulama çatısıdır uygulama o yapıya göre inşa edilir.
 ![image](https://user-images.githubusercontent.com/61595808/205493583-e49ba5b2-6f3a-4f16-b242-089a34fe26f9.png)
 
 ![image](https://user-images.githubusercontent.com/61595808/205493593-9a3b9e86-700c-41d4-8e43-60cbf2515e4e.png)
