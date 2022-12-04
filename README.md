@@ -166,7 +166,28 @@
 - “İlişki davranışları” kavramını biraz açıklayacak olursak, bir değer silinirse o veri ile ilişkili olan kayıtların etkilenmesini ya da etkilenmemesi işlemlerini Java nesneleri olarak yönetilmesini sağlamaktayız. Bu JPA teknolojisi bu davranışları Java nesneleri üzerinden yöneterek veritabanına ulaşmadan yormadan halleder.
 
 
+## Mapped by
 
+**@Entity
+@Table(name="instructor_detail")
+public class InstructorDetail{
+ ...
+ @OneToOne(mappedBy="instructorDetail")
+ private Instructor instructor;
+ }**
+ 
+**public class  Instructor{
+...
+ @OneToOne(cascade=CascadeType.ALL)
+ @JoinColumn(name="instructor_detail_id")
+ private InstructorDetail instructorDetail;
+ 
+ }**
+ 
+ - mappedBy tells Hibernate
+    - Look at the instructorDetail property in the Instructor class
+    - Use information from the Instructor class @JoinColumn
+    - To help find associated instructor
 
 
 
