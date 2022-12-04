@@ -5,7 +5,10 @@
 
 ## Kütüphane ve Framework
 
-Frameworkler ve kütüphaneler, bazı genel görevleri daha az ayrıntılı bir şekilde gerçekleştirmenize yardımcı olan başkası tarafından yazılmış kodlardır. Framework programın kontrolünü terse çevirir. Kütüphane bununla ilgilenmez. Programcılar kütüphaneleri ihtiyaç duyduklarında çağırırlar.
+- Frameworkler ve kütüphaneler, bazı genel görevleri daha az ayrıntılı bir şekilde gerçekleştirmenize yardımcı olan başkası tarafından yazılmış kodlardır. Framework programın kontrolünü terse çevirir. Kütüphane bununla ilgilenmez. Programcılar kütüphaneleri ihtiyaç duyduklarında çağırırlar.
+- Her bir framework bir kütüphanedir ancak her bir kütüphane framework değildir.
+- Frameworklerde bir yazılım mimarisi bulunmaktadır ve içerisinden bir fonksiyonu ya da bir metodu kullanırken uymanız gereken standartlar vardır.
+Frameworklerde kodu çağıran kendisi olur
 
 ![image](https://user-images.githubusercontent.com/61595808/205493583-e49ba5b2-6f3a-4f16-b242-089a34fe26f9.png)
 
