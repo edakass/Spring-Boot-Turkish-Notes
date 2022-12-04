@@ -5,13 +5,25 @@
 
 - Spring popüler bir Java frameworküdür.
 
+## Spring Kütüphanesi
+- Spring; bir web uygulaması geliştirmek için en yaygın olarak kullanılan Java EE (Java Enterprise Edition) kütüphanelerinden biridir. Java platformu için ayrıntılı bir programlama ve yapılandırma modeli sunar. Java EE kapsamında uygulama geliştirmeyi basitleştirmeyi amaçlar ve biz geliştiricilerin daha üretken olmasına yardımcı olur.
+- Spring kütüphanesinin en önemli özelliği Dependency Injection dır. 
+- Spring kütüphanesi bize esneklik uygulamaya odaklanırken, Spring Boot kod uzunluğunu kısaltmayı ve bir web uygulaması geliştirmenin en kolay yolunu bize sunmayı amaçlamaktadır.
+
+![image](https://user-images.githubusercontent.com/61595808/205480333-e1a50a03-e958-40f5-876a-85c4ba29accd.png)
+
+ Bu resim için linkteki videoya bak    https://www.fusion-reactor.com/blog/the-difference-between-spring-framework-vs-spring-boot/
+ 
+ 
 ## Tomcat Nedir?
 
 - Web sunucusudur.
 
 ## IoC(Inversion of Control)
 
-- Bir yazılım tasarım prensibidir
+- Bir yazılım tasarım prensibidir.
+-  Ioc ile Uygulama içerisindeki obje instance’larının yönetimi sağlanarak, bağımlılıklarını en aza indirgemek amaçlanmaktadır.
+- Yazdığımız kod bloğu çalışacağı zaman, framework bizim kodumuzu çağırır ve çalıştırır daha sonra kontrol yeniden framework’e geçmesi olayının tümüne Inversion Of Control adı verilmektedir.
 
 ## Spring Bean nedir?
 
