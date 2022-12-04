@@ -160,6 +160,10 @@
 
 ![image](https://user-images.githubusercontent.com/61595808/205453191-9f67960e-ef1c-4600-9b14-f9cefa1b93b4.png)
 
+![image](https://user-images.githubusercontent.com/61595808/205486296-1723ae7e-cab9-41dd-ad52-c81bb817d791.png)
+
+
+
 ## Cascade 
 
 - Cascade JPA standartıdır. Java sınıflarımızdaki ilişkilerin davranışlarını cascade niteliğini kullanarak ayarlarız. 
@@ -190,6 +194,70 @@ public class  Instructor{
     - Look at the instructorDetail property in the Instructor class
     - Use information from the Instructor class @JoinColumn
     - To help find associated instructor
+
+
+## Fetch Type 
+
+- Aralarında ilişki bulunan Entity sınıflarından bir tarafın yüklenme durumunda diğer tarafın yüklenme stratejisini belirlememizi sağlar. Hibernate de 2 adet fetch type vardır. Bunlar:
+- 1-)Eager(Ön Yükleme)
+- 2-)Lazy(Tembel/Sonradan Yükleme)
+
+- Eğer @OneToOne ve @ManyToOne ilişkileri kullanıyorsak FetchType olarak Eager kullanmamız daha doğru olur. Yani bir tane Entity nesnesi üzerinden ilişki kurulduğundan ön yükleme yapmak performans açısından sorun oluşturmaz.
+- Eğer ki @OneToMany ve @ManyToMany ilişki kullanıyorsak FetchType olarak Lazy kullanmamız daha doğru olur. Yani birden fazla ilişkili nesne olduğundan ön yükleme yapmamız performans açısından kayba neden olur. Bunun için ihtiyaç duyulduğunda yüklemek daha doğru olur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Roadmap
 
