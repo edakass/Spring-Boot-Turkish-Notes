@@ -160,9 +160,10 @@
 
 ![image](https://user-images.githubusercontent.com/61595808/205453191-9f67960e-ef1c-4600-9b14-f9cefa1b93b4.png)
 
+## Cascade 
 
-
-
+- Cascade JPA standartıdır. Java sınıflarımızdaki ilişkilerin davranışlarını cascade niteliğini kullanarak ayarlarız. 
+- “İlişki davranışları” kavramını biraz açıklayacak olursak, bir değer silinirse o veri ile ilişkili olan kayıtların etkilenmesini ya da etkilenmemesi işlemlerini Java nesneleri olarak yönetilmesini sağlamaktayız. Bu JPA teknolojisi bu davranışları Java nesneleri üzerinden yöneterek veritabanına ulaşmadan yormadan halleder.
 
 
 
